@@ -20,7 +20,7 @@ resume：<br/>
        熟悉 android 四大组件、常用布局,熟悉 sqlite 、sharedpreference 、json 数据解析以及 listView 优化。      <br/>
        爱折腾：刚开始装系统那会儿一直瞎折腾，直到最后把所有windows版本和部分linux版本都试了个遍。<br/>
 项目经历<br/>
-    language：                java<br/>
+    language：                java <br/>
     operation system：        debian<br/>
     program tool：            eclipse<br/>
     project：                 ajax、hibernate的示範程序：https://github.com/monicaSmith/java<br/>
@@ -29,7 +29,7 @@ resume：<br/>
     operation system：        debian<br/>
     program tool：            android studio<br/>
     project ：                能实现发微博,json 解析,获取用户信息<br/>
-              https://github.com/monicaSmith/SinaDevelopingVersion/<br/>
+              https://github.com/monicaSmith/SinaDevelopingVersion/
        
 
 # java
