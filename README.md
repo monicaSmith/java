@@ -1,14 +1,14 @@
                                           >##resume：<br/>
 -基本信息<br/>
-       gender：     female                            birth time：1994/7            		   <br/>
-       university ：chengdu neusoft                   major：the internet engineering<br/>
-       name：        Tangxiaojuan                     location：Chengdu<br/>
-       email：743322319@qq.com                        phone ：13348847681 <br/>
+  gender：     female                            birth time：1994/7            		   <br/>
+  university ：chengdu neusoft                   major：the internet engineering<br/>
+  name：        Tangxiaojuan                     location：Chengdu<br/>
+  email：743322319@qq.com                        phone ：13348847681 <br/>
 -求职意向<br/>
-           >软件相关、java实习生 、android 实习生、軟件測試、英语相关<br/>
+  软件相关、java实习生 、android 实习生、軟件測試、英语相关<br/>
 -教育背景<br/>
-         2013/9-2017/9 	成都东软学院  网络工程  本科 <br/>
-        主修课程：大学英语、大学计算机基础、php、网页设计与开发、数据结构、mysql数据库、c语言程序设计、c++、计算机网络、网络编程、linux 等<br/>
+  2013/9-2017/9 	成都东软学院  网络工程  本科 <br/>
+  主修课程：大学英语、大学计算机基础、php、网页设计与开发、数据结构、mysql数据库、c语言程序设计、c++、计算机网络、网络编程、linux 等<br/>
 -语言情况<br/>
        >CET 4、CET 6<br/>
 -简介<br/>
