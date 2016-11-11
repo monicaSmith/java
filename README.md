@@ -10,7 +10,7 @@ resume：<br/>
          2013/9-2017/9 	成都东软学院  网络工程  本科 <br/>
         主修课程：大学英语、大学计算机基础、php、网页设计与开发、数据结构、mysql数据库、c语言程序设计、c++、计算机网络、网络编程、linux 等<br/>
 语言情况<br/>
-CET 4、CET 6<br/>
+       CET 4、CET 6<br/>
 简介<br/>
        对程序语言十分感兴趣,java、android 基础牢固<br/>
        了解Rxjava、javascript、css、html<br/>
@@ -28,7 +28,8 @@ CET 4、CET 6<br/>
     Language ：               android<br/>
     operation system：        debian<br/>
     program tool：            android studio<br/>
-    project ：                能实现发微博,json 解析,获取用户信息https://github.com/monicaSmith/SinaDevelopingVersion/<br/>
+    project ：                能实现发微博,json 解析,获取用户信息<br/>
+              https://github.com/monicaSmith/SinaDevelopingVersion/<br/>
        
 
 # java
